@@ -1,0 +1,98 @@
+[
+   {
+      "name": "Замиакулькас",
+      "price": 2699,
+      "discount": 15,
+      "wight": "100 г",
+      "description": "Описание demo",
+      "isFavorite": true,
+      "isCart": false,
+      "available": true,
+      "stock": 10,
+      "picture": "https://i.pinimg.com/564x/05/f2/b2/05f2b2638f5519acdfc039071ebfaaad.jpg"
+   },
+   {
+      "name": "Монстера",
+      "price": 1499,
+      "discount": 0,
+      "wight": "100 г",
+      "description": "Описание demo",
+      "isFavorite": true,
+      "isCart": false,
+      "available": true,
+      "stock": 10,
+      "picture": "https://i.pinimg.com/564x/e3/44/97/e3449714db4ec6959506452453315e34.jpg"
+   },
+   {
+      "name": "Пилея",
+      "price": 1299,
+      "discount": 0,
+      "wight": "100 г",
+      "description": "Описание demo",
+      "isFavorite": true,
+      "isCart": false,
+      "available": true,
+      "stock": 10,
+      "picture": "https://i.pinimg.com/564x/19/22/9e/19229eff79076624df20d1f4597fd7bb.jpg"
+   },
+   {
+      "name": "Сансевиерия",
+      "price": 1899,
+      "discount": 20,
+      "wight": "100 г",
+      "description": "Описание demo",
+      "isFavorite": true,
+      "isCart": false,
+      "available": true,
+      "stock": 10,
+      "picture": "https://i.pinimg.com/564x/97/42/03/97420321ad28e4bd4833feef42d5974d.jpg"
+   },
+   {
+      "name": "Суккулент",
+      "price": 1099,
+      "discount": 30,
+      "wight": "100 г",
+      "description": "Описание demo",
+      "isFavorite": true,
+      "isCart": false,
+      "available": true,
+      "stock": 10,
+      "picture": "https://i.pinimg.com/564x/cb/7d/8e/cb7d8e8da637c886d7a54924b23c02c6.jpg"
+   },
+   {
+      "name": "Хавортия",
+      "price": 1199,
+      "discount": 0,
+      "wight": "100 г",
+      "description": "Описание demo",
+      "isFavorite": true,
+      "isCart": false,
+      "available": true,
+      "stock": 10,
+      "picture": "https://i.pinimg.com/564x/00/98/51/009851e620ea988c71ebda4c7cfcd49f.jpg"
+   },
+   {
+      "name": "Кактус",
+      "price": 2299,
+      "discount": 0,
+      "wight": "100 г",
+      "description": "Описание demo",
+      "isFavorite": true,
+      "isCart": false,
+      "available": true,
+      "stock": 10,
+      "picture": "https://i.pinimg.com/564x/78/34/79/7834796a152c426925f1b74dd9ed3660.jpg"
+   },
+   {
+      "name": "Эвкалипт",
+      "price": 1699,
+      "discount": 10,
+      "wight": "100 г",
+      "description": "Описание demo",
+      "isFavorite": true,
+      "isCart": false,
+      "available": true,
+      "stock": 10,
+      "picture": "https://i.pinimg.com/564x/3f/8d/7e/3f8d7e399d3fedcc297c5285df76a946.jpg"
+   }
+]
