@@ -17,8 +17,8 @@ class Api {
       this._baseUrl = data.baseUrl;
       this._headers = data.headers;
    }
-   getProductList(page = 4) {
-      return fetch(`${this._baseUrl}/products?page=${page}`, {
+   getProductList() {
+      return fetch(`${this._baseUrl}/products`, {
          headers: this._headers,
       }).then((res) => onResponse(res));
    }
@@ -35,7 +35,7 @@ class Api {
       }).then((res) => onResponse(res));
    }
    getUserInfo() {
-      return fetch(`${this._baseUrl}/users/me`, {
+      return fetch(`${this._baseUrl}/v2/group-10/users/me`, {
          headers: this._headers,
       }).then((res) => onResponse(res));
    }

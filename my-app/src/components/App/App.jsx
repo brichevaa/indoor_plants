@@ -20,6 +20,8 @@ function App() {
    const [currentUser, setCurrentUser] = useState({});
 
    const filteredCards = (products, id) => {
+      // return products;
+      console.log(products);
       return products.filter((e) => e.author._id === id);
    };
 
