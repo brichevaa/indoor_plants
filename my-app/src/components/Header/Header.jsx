@@ -14,7 +14,12 @@ export const Header = ({ setSearchQuery, user }) => {
             <div className="header__wrapper">
                <div className="header__item">
                   <Logo />
-                  <button className="btn btn_type_primary">Каталог</button>
+                  <button
+                     className="btn btn_type_primary"
+                     onClick={() => console.log('Есть контакт!')}
+                  >
+                     Нажми меня
+                  </button>
                   <Search setSearchQuery={setSearchQuery} />
                   <p>
                      {user.name} {user.about}

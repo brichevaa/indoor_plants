@@ -21,7 +21,6 @@ function App() {
 
    const filteredCards = (products, id) => {
       // return products;
-      console.log(products);
       return products.filter((e) => e.author._id === id);
    };
 
@@ -64,7 +63,6 @@ function App() {
             setCurrentUser(userData);
             const items = filteredCards(productData.products, userData._id);
             setCards(items);
-            console.log(items);
 
             // const fav = items.filter((e) => findLike(e, userData));
             // console.log(fav);
